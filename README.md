@@ -5,7 +5,7 @@ win10<br>
 python 3.7
 # How to use
 1,Download the project , install all the dependencies via requirements.txt<br><br>
-2,Run ```python train_step.py ``` in CMD to complete the training, this will update the Cluster.csv and 3D_points.csv<br><br>
+2,Run ```python train_step.py ``` in CMD to complete the training, this will update the cluster.csv and 3D_points.csv<br><br>
 3,RUN ```python predict_step.py ``` in CMD to complete the test step, the detection results of the MCD algorithm on the dataset will be printed out like this：<br>
 ![image](https://user-images.githubusercontent.com/42335842/120985431-20c2d680-c76b-11eb-8c60-24b4252a3fcd.png)
 # Notice
